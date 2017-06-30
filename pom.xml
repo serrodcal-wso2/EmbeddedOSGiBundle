@@ -7,6 +7,7 @@
     <groupId>com.serrodcal.EmbeddedOSGiBundleMediator</groupId>
     <artifactId>EmbeddedOSGiBundleMediator</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>bundle</packaging>
 
     <properties>
         <CApp.type>lib/synapse/mediator</CApp.type>
